@@ -5,7 +5,7 @@ from dataclasses import dataclass
 @dataclass
 class EmbeddingIndex:
     """
-    Definition of an embedding to be used for testing.
+    Definition of an vector solution to be used for testing.
     """
 
     index_name: str
